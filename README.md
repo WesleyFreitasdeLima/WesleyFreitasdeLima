@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**WesleyFreitasdeLima/WesleyFreitasdeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+***
+Tenho 28 anos e sou estudante EAD do curso Sistemas para Internet na FAM - Faculdade das Américas.
+Atualmente trabalho como Analista de Sistemas, mas estou dedicando muito para me tornar um desenvolvedor web.
+***
+### Tecnologias
++ HTML
++ CSS3
++ Java Script
++ NodeJS
++ ReactJS
++ Docker
++ Zabbix
