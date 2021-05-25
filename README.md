@@ -8,7 +8,7 @@
 ### Sobre mim
 ***
 Tenho 28 anos e sou estudante EAD do curso Sistemas para Internet na FAM - Faculdade das Américas.
-Atualmente trabalho como Analista de Sistemas na [NETserv](http://www.netserv.com.br), mas estou dedicando muito para me tornar um desenvolvedor web.
+Atualmente trabalho como Analista de Sistemas e tenho buscado aprimorar minhas capacidades de desenvolvimento WEB.
 
 ### Tecnologias
 ***
