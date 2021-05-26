@@ -19,7 +19,6 @@ Atualmente trabalho como Analista de Sistemas e tenho buscado aprimorar minhas c
 + TypeScript
 + NodeJS
 + ExpressJS
-+ Jest
 + ReactJS
 + MySQL
 + MongoDB
