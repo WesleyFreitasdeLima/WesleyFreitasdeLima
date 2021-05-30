@@ -16,10 +16,10 @@ Atualmente trabalho como Analista de Sistemas e tenho buscado aprimorar minhas c
 + CSS3
 + Bootstrap
 + JavaScript
-+ TypeScript
++ TypeScript (Em estudo)
 + NodeJS
 + ExpressJS
-+ ReactJS
++ ReactJS (Em estudo)
 + MySQL
 + MongoDB
 + Docker
