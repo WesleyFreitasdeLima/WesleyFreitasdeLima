@@ -16,13 +16,20 @@ Atualmente trabalho como Analista de Sistemas e tenho buscado aprimorar minhas c
 + CSS3
 + Bootstrap
 + JavaScript
-+ TypeScript (Em estudo)
 + NodeJS
 + ExpressJS
-+ ReactJS (Em estudo)
 + MySQL
++ PostgreSQL
++ OracleSQL
 + MongoDB
 + Docker
 + Proxmox
 + Zabbix
 + Grafana
+
+### Em estudo
+***
++ ReactJS
++ TypeScript
++ Unit Test/Integration Test (Jest)
++ Java
