@@ -5,28 +5,17 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;">
 </a>
 
-### Tecnologias
+### Sobre
 ***
-+ HTML5
-+ CSS3
-+ Bootstrap
-+ JavaScript
-+ NodeJS
-+ ExpressJS
-+ MySQL
-+ PostgreSQL
-+ OracleSQL
-+ MongoDB
-+ Docker
-+ Proxmox
-+ Zabbix
-+ Grafana
-+ UiPath (RPA) 
+Me chamo Wesley, sou estudante do curso de Sistemas para Internet na FAM e atualmente desempenho a função de desenvolvedor de software na <a href="https://www.linkedin.com/company/elo-group/mycompany/">Elogroup</a>, tendo atuado anteriormente como Analista de Suporte Técnico, Analista de Infraestrutura de Redes e Analista de Sistemas na <a href="https://www.linkedin.com/company/netserv/">Netserv</a>. 
+
+### Experiência
+***
++ Bancos de dados Oracle, MySQL e MongoDb
++ Aplicações em PHP com Laravel, API's NodeJS com Express e SPA com ReactJS
++ Automação de processos em RPA com UiPath
++ Monitoramento de rede com Zabbix e Dashboards em Grafana
 
 ### Em estudo
 *** 
 + Outsystems (LowCode)
-+ ReactJS
-+ TypeScript
-+ Unit Test/Integration Test (Jest)
-+ Java
