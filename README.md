@@ -11,11 +11,12 @@ Me chamo Wesley, sou estudante do curso de Sistemas para Internet na FAM e atual
 
 ### Experiência
 ***
-+ Bancos de dados Oracle, MySQL e MongoDb
++ Monitoramento de rede com Zabbix e Dashboards em Grafana
++ Bancos de dados SQL (MSSQL, OracleDB e MySQL) e Mongodb
 + Aplicações em PHP com Laravel, API's NodeJS com Express e SPA com ReactJS
 + Automação de processos em RPA com UiPath
-+ Monitoramento de rede com Zabbix e Dashboards em Grafana
++ Aplicações em OutSystems (Traditional Web e Reactive)
 
 ### Em estudo
 *** 
-+ Outsystems (LowCode)
++ Java
