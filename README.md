@@ -16,7 +16,3 @@ Me chamo Wesley, sou estudante do curso de Sistemas para Internet na FAM e atual
 + Aplicações em PHP com Laravel, API's NodeJS com Express e SPA com ReactJS
 + Automação de processos em RPA com UiPath
 + Aplicações em OutSystems (Traditional Web e Reactive)
-
-### Em estudo
-*** 
-+ Java
