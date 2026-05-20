@@ -7,7 +7,7 @@
 
 ### Sobre
 ***
-Me chamo Wesley, sou estudante do curso de Sistemas para Internet na FAM e atualmente desempenho a função de desenvolvedor de software na <a href="https://www.linkedin.com/company/elo-group/mycompany/">Elogroup</a>, tendo atuado anteriormente como Analista de Suporte Técnico, Analista de Infraestrutura de Redes e Analista de Sistemas na <a href="https://www.linkedin.com/company/netserv/">Netserv</a>. 
+Me chamo Wesley, sou formado em Sistemas para Internet na FAM e atualmente desempenho a função de desenvolvedor de software na <a href="https://www.linkedin.com/company/elo-group/mycompany/">Elogroup</a>, tendo atuado anteriormente como Analista de Suporte Técnico, Analista de Infraestrutura de Redes e Analista de Sistemas na <a href="https://www.linkedin.com/company/netserv/">Netserv</a>. 
 
 ### Experiência
 ***
@@ -16,3 +16,4 @@ Me chamo Wesley, sou estudante do curso de Sistemas para Internet na FAM e atual
 + Aplicações em PHP com Laravel, API's NodeJS com Express e SPA com ReactJS
 + Automação de processos em RPA com UiPath
 + Aplicações em OutSystems (Traditional Web e Reactive)
++ Teste automatizados com Python e Selenium
